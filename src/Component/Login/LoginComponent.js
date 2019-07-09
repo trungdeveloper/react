@@ -4,7 +4,7 @@ import { Form, Button } from 'react-bootstrap';
 class Login extends Component {
   render() {
     return (
-      <div className="d-flex align-content">
+      <div className="d-flex justify-content-center">
         <Form>
           <Form.Group controlId="formBasicEmail">
             <Form.Label>Email address</Form.Label>
